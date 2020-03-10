@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>io.falcon.demo</groupId>
 	<artifactId>peters-java-app</artifactId>
-	<version>0.0.2-master-7e29095b</version>
+	<version>0.0.2-master-1544a836</version>
 	<name>peters-java-app</name>
 	<description>Demo project for Spring Boot</description>
 
